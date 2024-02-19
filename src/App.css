@@ -37,7 +37,6 @@ a:hover {
   grid-template-columns: 45.625rem 23.755rem;
   padding-top: 5.44rem;
   justify-content: center;
-  grid-row-gap: 3.86rem;
 }
 
 nav {
@@ -75,6 +74,7 @@ nav {
   grid-template-columns: 23.75rem 21.875rem;
   width: 45.625rem;
   grid-row-gap: 2.25rem;
+  margin-top: 3.86rem;
 }
 
 .hero-content {
@@ -140,6 +140,7 @@ nav {
   background-color: #00001A;
   padding: 0 1.5rem;
   margin-left: 1.88rem;
+  margin-top: 3.86rem;
 }
 
 .news-hydro, .news-artist {
@@ -172,6 +173,8 @@ nav {
 .footer {
   display: flex;
   width: 69.38rem;
+  margin-top: 4.5rem;
+  grid-area: footer;
 }
 
 .topics {
