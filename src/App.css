@@ -173,7 +173,7 @@ nav {
 .footer {
   display: flex;
   width: 69.38rem;
-  margin-top: 4.5rem;
+  margin-top: 4.25rem;
   grid-area: footer;
 }
 
